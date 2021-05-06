@@ -13,6 +13,6 @@ public class Main {
             new MultipartStream(new ByteArrayInputStream(bytes), bytes);
         } catch (IOException ignored) {
         }
-        System.out.println("Program completed.");
+        System.out.println("Program completed...");
     }
 }
